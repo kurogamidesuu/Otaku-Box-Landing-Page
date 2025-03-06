@@ -22,15 +22,11 @@ A responsive landing page for a fictional anime merchandise subscription service
 - Google Fonts
 - Responsive design with media queries
 
-## Preview
-
-[Add screenshots or a live demo link once your site is deployed]
-
 ## Installation and Usage
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/otaku-box-landing-page.git
+   git clone https://github.com/kurogamidesuu/otaku-box-landing-page.git
    ```
 2. Open `index.html` in your browser to view the website
 
@@ -60,12 +56,3 @@ otaku-box-landing-page/
 - Implement a shopping cart system
 - Create individual product pages
 - Add authentication for user accounts
-
-## License
-
-[Choose a license, such as MIT, if you want]
-
-## Acknowledgments
-
-- Design inspiration from modern subscription box services
-- Images sourced from [mention image sources if applicable]
